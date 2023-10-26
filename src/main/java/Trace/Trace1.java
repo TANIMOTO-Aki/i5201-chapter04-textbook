@@ -1,5 +1,4 @@
-package Trace;
-public class Trase1 {
+public class Trace1 {
     public static void main(String[] args) {
         int i;
         int num;
