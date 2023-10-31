@@ -1,5 +1,3 @@
-import java.util.concurrent.Flow.Subscriber;
-
 public class Disp10Dot1 {
     public static void main(String[] args) {
         
